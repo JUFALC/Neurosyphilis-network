@@ -1,0 +1,9 @@
+pandas
+openpyxl
+python-dotenv
+openai>=1.0.0
+networkx
+matplotlib
+plotly
+numpy
+seaborn
